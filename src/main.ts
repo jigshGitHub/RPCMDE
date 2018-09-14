@@ -7,7 +7,6 @@ import { environment } from './environments/environment';
 if (environment.production) {
   enableProdMode();
 }
-
+//You launch your app by bootstrapping the root NgModule
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
-

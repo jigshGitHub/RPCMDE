@@ -1,0 +1,15 @@
+
+[id=page] {
+    border: 1px solid #bbb;
+    box-shadow: 0 .188em .625em #494949;
+    width: 80%;
+    margin-top:1em;
+    margin-left:10%;
+}
+
+[id=content],
+[id=page] {
+    background: #fff;
+    clear: both;
+    position: relative;
+}
