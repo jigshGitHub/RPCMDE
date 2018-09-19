@@ -1,0 +1,16 @@
+
+[id=menuPanel] {
+    background-color: #465880;
+}
+
+[id=menuPanel] .intranetLinks {
+    color: white;
+    padding-left: 1em;
+    padding-right: .5em;
+    padding-top: .5em;
+}
+
+[id=menuPanel] .intranetLinks a {
+    color: white;
+    text-decoration: none;
+}
